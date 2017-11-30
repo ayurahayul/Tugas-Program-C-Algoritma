@@ -9,5 +9,5 @@ int main () {
 	printf("5.tuangkan air ke dalam wadah \n");
 	printf("6.masukan wadah ke rice cocker \n");
 	printf("7.tunggu sampai masak \n");
-	return o;
+	return 0;
 }
